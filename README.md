@@ -1,4 +1,6 @@
-# This project demonstrates issues with using GnuTLS on Android
+# Test with GnuTls on Android
+
+This project demonstrates issues with using GnuTLS on Android.
 
 If you build and run the application, tap the text on the main activity.
 

@@ -1,0 +1,7 @@
+.vs
+GnuTlsTest/obj
+GnuTlsTest/bin
+*.csproj.user
+GnuTlsTest/Resources/AboutResources.txt
+GnuTlsTestLib/obj
+GnuTlsTestLib/bin

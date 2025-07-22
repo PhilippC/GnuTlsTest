@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnuTlsTest", "GnuTlsTest\GnuTlsTest.csproj", "{1C377823-606B-42A1-B7FB-C275F5725E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnuTlsTestLib", "GnuTlsTestLib\GnuTlsTestLib.csproj", "{B580D8B3-0C4E-431B-95EB-6CE99A106A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C377823-606B-42A1-B7FB-C275F5725E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C377823-606B-42A1-B7FB-C275F5725E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C377823-606B-42A1-B7FB-C275F5725E1E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1C377823-606B-42A1-B7FB-C275F5725E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C377823-606B-42A1-B7FB-C275F5725E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C377823-606B-42A1-B7FB-C275F5725E1E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B580D8B3-0C4E-431B-95EB-6CE99A106A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B580D8B3-0C4E-431B-95EB-6CE99A106A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B580D8B3-0C4E-431B-95EB-6CE99A106A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B580D8B3-0C4E-431B-95EB-6CE99A106A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17D0F57D-7673-4250-A77E-52DCC067ADCC}
+	EndGlobalSection
+EndGlobal

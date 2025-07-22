@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">GnuTlsTest</string>
-    <string name="app_text">Hello, Android!</string>
+    <string name="app_text">Tap me to start the test</string>
 </resources>
